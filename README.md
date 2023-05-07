@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ariannagutirrzz
 - 👀 I’m interested in videogames and rubiks cube!
 - 🌱 I’m currently learning web developmwent
-- 💞️ I’m looking to collaborate on ...not defined yet
+- 💞️ I’m looking to collaborate with anyone who has interest in learn ang grow
 - 📫 How to reach me ...
 
 <!---

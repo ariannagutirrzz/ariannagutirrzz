@@ -1,17 +1,9 @@
-<div>
-  <img src= "<iframe src="https://giphy.com/embed/3NtY188QaxDdC" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3NtY188QaxDdC">via GIPHY</a></p>" width = 200>
-  <h1> Hi! I'm Arianna Vega</h1>
-  <h3> I'm currently studying software engineering at college. Working on personal projects and making friends with same interests as me</h3>
-  </div>
-  
-  <div>
-  <h3>Language and tools</h3>
-  
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" height= "40" width="40"/>
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS3" height= "40" width="40"/>
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript" height= "40" width="40"/>
-    <img src = "https://tailwindcss.com/" title="Tailwind" alt="Tailwind" height= "40" width="40"/>
-    <img src = "https://astro.build/" title="Astro" alt="Astro" height= "40" width="40"/>
-    <img src = "https://git-scm.com/" title="Git" alt="Git" height= "40" width="40"/>
-  
-  </div>
+<h1 align="center">Hi 👋, I'm Arianna</h1>
+<h3 align="center">A passionate frontend developer from Venezuela</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>

@@ -12,7 +12,6 @@
     <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript" height= 40 width=40/>
     <img src = "https://tailwindcss.com/" title="Tailwind" alt="Tailwind" height= 40 width=40/>
     <img src = "https://astro.build/" title="Astro" alt="Astro" height= 40 width=40/>
-    <img src = "https://git-scm.com/" title="Astro" alt="Astro" height= 40 width=40/>
-  </h3>
+    <img src = "https://git-scm.com/" title="Git" alt="Git" height= 40 width=40/>
   
   </div>

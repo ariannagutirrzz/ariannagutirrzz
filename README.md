@@ -7,10 +7,14 @@
   <div>
   <h3>Language and tools</h3>
   
-    <img src = "https://www.w3schools.com/html/" title="HTML5" alt="HTML" height= 40 width=40/>
-    <img src = "https://www.w3schools.com/html/" title="HTML5" alt="HTML" height= 40 width=40/>
-    <img src = "https://www.w3schools.com/html/" title="HTML5" alt="HTML" height= 40 width=40/>
-    <img src = "https://www.w3schools.com/html/" title="HTML5" alt="HTML" height= 40 width=40/>
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" height= 40 width=40/>
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS3" height= 40 width=40/>
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript" height= 40 width=40/>
+    <img src = "https://tailwindcss.com/" title="Tailwind" alt="Tailwind" height= 40 width=40/>
+    <img src = "https://astro.build/" title="Astro" alt="Astro" height= 40 width=40/>
+    <img src = "https://git-scm.com/" title="Astro" alt="Astro" height= 40 width=40/>
 
+
+  
   
   </div>

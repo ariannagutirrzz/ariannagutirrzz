@@ -13,8 +13,6 @@
     <img src = "https://tailwindcss.com/" title="Tailwind" alt="Tailwind" height= 40 width=40/>
     <img src = "https://astro.build/" title="Astro" alt="Astro" height= 40 width=40/>
     <img src = "https://git-scm.com/" title="Astro" alt="Astro" height= 40 width=40/>
-
-
-  
+  </h3>
   
   </div>

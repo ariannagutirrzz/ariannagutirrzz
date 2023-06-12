@@ -7,7 +7,10 @@
   <div>
   <h3>Language and tools</h3>
   
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" height= 40 width=40/>
-  
+    <img src = "https://www.w3schools.com/html/" title="HTML5" alt="HTML" height= 40 width=40/>
+    <img src = "https://www.w3schools.com/html/" title="HTML5" alt="HTML" height= 40 width=40/>
+    <img src = "https://www.w3schools.com/html/" title="HTML5" alt="HTML" height= 40 width=40/>
+    <img src = "https://www.w3schools.com/html/" title="HTML5" alt="HTML" height= 40 width=40/>
+
   
   </div>

@@ -6,7 +6,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/arianna-vega-guti%c3%a9rrez-834890215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arianna-vega-guti%c3%a9rrez-834890215/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21032073/arianna-vega" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21032073/arianna-vega" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ariannagutirrzz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ariannagutirrzz/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ariannagutirrzz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ariannagutirrzz/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
